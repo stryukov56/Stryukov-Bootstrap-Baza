@@ -1,1 +1,5 @@
-# Stryukov-Bootstrap-Baza
+## Как открыть
+Откройте файл `index.html` в браузере.
+
+## Версия Bootstrap
+5.3.3 (через CDN)
